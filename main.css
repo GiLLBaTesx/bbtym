@@ -1,0 +1,39 @@
+
+*{
+   
+    text-align: center;
+}
+
+.first{
+    margin-top: 200px;
+}
+
+.button{
+    margin-top: -100px;
+}
+
+.body{
+    margin-top: 50px;
+    background-color: #FD9ED0;
+}
+
+.second{
+    height: 500px;
+    width: 500px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 450px;
+    background-color:white;
+
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
+
+#carouselExampleCaptions{
+    background-color: #FD9ED0;
+}
